@@ -1,0 +1,2 @@
+# CalProM
+An application under development to help you achieve a weight loss plan and record the calorie content of food. Users add their own information by choosing their own weight loss goals, and complete their own training by recording daily calorie intake and food calorie content. The current project is still under test, and the current stage is testing the added functions and the functions of each interface. If you encounter problems during the test, please contact me
